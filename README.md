@@ -18,7 +18,8 @@ Registration&login
 8. Make sure you can reset your password 
 9. Make sure you can logout
 
-Search button
+Search button 
+
 10. When clicking on the seach bar : 
     - Make sure the input field opens up .
     - Make sure you can input characters, numbers.
@@ -29,15 +30,18 @@ Search button
     - Make sure that searching for invalid word or characters withh display an Empty result headline
 
  Top Menu buttons
+ 
  11. When Clicking on "Woman|Men|Kids" Top Menu :
      - Make sure all expected sub-menu button are visible & clickable(might be different for each section)
      - Make sure we can click on all sub-menu button separatelly and all will display expected data.
 
 Hamburger Menu (Top left side of the page)
+
 12. When clickin on the top left menu button:
      - Make sure all menu buttons expected are visible and clickable & will display expected results when clicked -> Kids menu button will display submenu -> BABIES, GRILS, BOYS -> Babies submenu button will display sub-sub menus etc.  
 
 Filter buttons 
+
 13. Each section/cathegory of products (example: Men -> Shoes) has a header. Using this as preconditions :
      - Make sure you can switch views, by clicking on the View button
      - Make sure you can sort products, using all available sort options
@@ -45,6 +49,7 @@ Filter buttons
      - Make sure you can toggle on and off Sale and Sustainable filters.
 
 Product view 
+
 14. When clicking on any product : 
      - Make sure you can see the photos of the product & can navigate through them.
      - Make sure yoy can share them 
@@ -57,14 +62,17 @@ Product view
 
 
 Buttom links 
+
 15. Make sure you can sign up for the newsletter as both "For woman"  & "For men".
 16. Make sure all the links, on the buttom of the page work. Cathegory "WOMAN|MAN|KIDS", "BRANDS FOR WOMAN | BRANDS FOR MEN | BRANDS FOR KIDS", "ABOUT YOU X INTERNATIONA", "MORE INTERESTING THEMES" , "POPULAR COLORS IN THIS CATHEGORY", "POPULAR BRANCDS IN THIS CATHEGORY"
 
 Contact section
+
 17. Make sure all buttons and links under the Contact section can be accessed (phone no., Contact us button, Social media links )
 18. Make sure all Customer Care link work
 
 Purchase 
+
 19. Make sure that when adding a product into the cart, it is available when opening the cart page.
 20. Make sure you can remove items from cart
 21. Make sure you can add more items of the same type - using the drop down button
